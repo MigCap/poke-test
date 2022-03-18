@@ -1,0 +1,10 @@
+# Este archivo esta duplicado.
+# Cualquier cambio ha de realizarse también en el .prettierignore de la raíz del proyecto
+build/
+internals/
+docs/*
+node_modules/
+apollo/generated/*
+messages.ts
+package-lock.json
+yarn.lock
